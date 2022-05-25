@@ -9,4 +9,4 @@ https://mononichi.com/blog/2016/12/howtos7136/
 
 日立マイコンカーラリーの基板
 https://mononichi.com/blog/wp-content/uploads/2016/09/sensor5_seisaku.pdf
-をほぼパクった感じですね。こちらの９ページ辺りに何故このセンサを使用しているのか説明があります
+を真似た感じですね。こちらの９ページ辺りに何故このセンサを使用しているのか説明があります
