@@ -13,3 +13,5 @@ https://mononichi.com/blog/wp-content/uploads/2016/09/sensor5_seisaku.pdf
 
 無理にこれを使えというわけではなく
 これ以外にももっといいセンサがあるかもしれませんし、使い慣れたセンサでいいと思います。
+
+![スクリーンショット (132)](https://user-images.githubusercontent.com/25544609/170171582-8495be5b-e2fa-460b-ab49-bc995c8ec8a3.png)
