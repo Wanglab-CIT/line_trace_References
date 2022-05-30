@@ -18,4 +18,7 @@ https://mononichi.com/blog/wp-content/uploads/2016/09/sensor5_seisaku.pdf
 センサの数は３個　５個　７個の基板を作成しましたが、少ないほどラインから外れやすくガタガタと音を立てながら首を振ります。
 多いほどコースにピタッとくっつくように制御しやすいです。その代わり回路の労力が増えます。
 
+知り合いが使用したセンサはこちらです
+https://akizukidenshi.com/catalog/g/gI-12626/　TPR-105
+
 ![スクリーンショット (132)](https://user-images.githubusercontent.com/25544609/170171582-8495be5b-e2fa-460b-ab49-bc995c8ec8a3.png)
